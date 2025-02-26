@@ -1,6 +1,6 @@
 # Weather App
 
-A simple, responsive weather application built with Next.js, React, and Tailwind CSS. This app allows users to check current weather conditions and a 5-day forecast for any city.
+A simple, responsive weather application built with Next.js, Shadcn UI, and Tailwind CSS. This app allows users to check current weather conditions and a 5-day forecast for any city.
 
 Find the deployed project over here: [Weather Website](https://weather-app-alpha-indol-28.vercel.app/)
 
